@@ -513,7 +513,7 @@
         "ghost_element.hover": "#2b3b5166",
         "ghost_element.selected": "#1E1E1C",
         "scrollbar.thumb.hover_background": "#eb88a261",
-        "scrollbar_thumb.background": "#ada1d169",
+        "scrollbar.thumb.background": "#ada1d169",
         "scrollbar.track.background": null,
         "predictive": "#696D77"
       }
