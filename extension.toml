@@ -1,7 +1,7 @@
 id = "zen-abyssal"
 name = "Zen Abyssal"
 schema_version = 1
-version = "1.2.0"
+version = "1.3.1"
 authors = ["KevInCompile <kevcoc10@gmail.com>"]
 description = "A theme you'll probably like for zed."
 repository = "https://github.com/KevInCompile/ZenAbyssal"
